@@ -319,7 +319,7 @@ export default function Home() {
 
       {/* ── HERO ── */}
       <section className="min-h-screen flex flex-col justify-center px-4 sm:px-6 pt-8 pb-16 sm:pb-24">
-        <div className="max-w-3xl mx-auto w-full">
+        <div className="max-w-4xl mx-auto w-full">
           {/* Intro block */}
           <motion.div
             variants={containerVariants}

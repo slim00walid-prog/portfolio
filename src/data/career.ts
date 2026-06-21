@@ -593,7 +593,7 @@ export const careerData: CareerData = {
     Kubernetes: {
       level: "advanced",
       evidence: [
-        "Deployed MCP + Booking Engine services to AKS (QT-12611)",
+        "Deployed MCP + Booking Engine services to AKS",
         "Helm charts, GitLab CI multi-stage pipelines",
         "Production management of 6+ services on K8s",
       ],
@@ -640,7 +640,7 @@ export const careerData: CareerData = {
     { date: "2024-01", event: "Owning booking engine service end-to-end", role: "Software Engineer" },
     { date: "2024-03", event: "Q-Storage project — built from scratch", role: "Software Engineer" },
     { date: "2024-06", event: "MCP platform research and initial gateway build", role: "Software Engineer" },
-    { date: "2024-09", event: "K8s deployment of MCP + BE services (QT-12611)", role: "Software Engineer" },
+    { date: "2024-09", event: "K8s deployment of MCP + BE services", role: "Software Engineer" },
     { date: "2025-01", event: "MCP platform ownership — gateway, auth, apps", role: "Senior Software Engineer" },
     { date: "2025-03", event: "OAuth 2.0 server for MCP ecosystem delivered", role: "Senior Software Engineer" },
     { date: "2025-06", event: "AI concierge widget architecture and build", role: "Senior Software Engineer" },
